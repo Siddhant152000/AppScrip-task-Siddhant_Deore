@@ -13,7 +13,7 @@
 
   
 .content {
-    flex-grow: 1; /* Content will take up available space */
+    flex-grow: 1; 
   }
   
   .with-aside {
